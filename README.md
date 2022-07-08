@@ -23,4 +23,6 @@ The contact includes a form that allows customers to select a service, vehicle m
 
 
 #
-> Developed by [Osama Hajj Ali](https://github.com/Osama-NA) and Arif Ur Rahman
+> Designed and developed by [Osama Hajj Ali](https://github.com/Osama-NA) and Arif Ur Rahman
+
+> UI layout inspired by [yiannimize](https://yiannimize.com/)
